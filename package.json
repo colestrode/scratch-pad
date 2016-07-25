@@ -1,0 +1,19 @@
+{
+  "name": "scratch-pad",
+  "version": "1.0.0",
+  "description": "Some stuffffff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colestrode/scratch-pad.git"
+  },
+  "author": "Cole Furfaro-Strode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colestrode/scratch-pad/issues"
+  },
+  "homepage": "https://github.com/colestrode/scratch-pad#readme"
+}
